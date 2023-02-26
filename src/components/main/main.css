@@ -1,11 +1,11 @@
-.main-container{
+.main-container {
     text-align: center;
     display: flex;
     flex-direction: column;
     height: 100vh;
 }
 
-.header-container{
+.header-container {
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -13,11 +13,11 @@
     gap: 1rem;
 }
 
-.chess-container{
+.chess-container {
     margin-top: 5rem;
 }
 
-.icons{
+.icons {
     margin-top: .3rem;
     width: 30px;
     height: 30px;

@@ -6,30 +6,27 @@
   box-sizing: border-box;
 }
 
-
-#light{
+#light {
   background-color: #ffffff;
 }
 
-#dark{
+#dark {
   background-color: rgb(31, 10, 10);
 }
 
-#light .App{
+#light .App {
   background-color: #ffffff;
 }
 
-#dark .App{
+#dark .App {
   background-color: rgb(31, 10, 10);
 }
 
 
-#light .board-title{
+#light .board-title {
   color: black;
 }
 
-#dark .board-title{
+#dark .board-title {
   color: #ffffff;
 }
-
-
