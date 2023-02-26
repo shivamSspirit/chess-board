@@ -31,3 +31,12 @@
 .selected {
     background-color: aqua;
 }
+
+@media screen and (max-width: 400px) {
+    .board {
+        display: grid;
+        grid-template-columns: repeat(8, 30px);
+        grid-template-rows: repeat(8, 30px);
+        margin: 0 auto;
+    }
+}
